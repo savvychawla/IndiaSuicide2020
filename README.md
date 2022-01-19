@@ -22,6 +22,8 @@ Full Report PDF: https://ncrb.gov.in/sites/default/files/ADSI_2020_FULL_REPORT.p
 2. Population figures on the basis of Census 2011 have been used for calculation of Death Rate in Mega Cities for the year 2020 as projected mid-year population figures for 2020 are not available.
 
 ## Using the interactive sunburst visualisation
+Visit https://savvychawla.github.io/IndiaSuicide2020/index.html
+
 Click on a category such as gender, age bracket or cause to exapand that particular section.
 
 Click on the center circle to return to the upper category.
