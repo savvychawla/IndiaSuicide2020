@@ -25,3 +25,6 @@ Full Report PDF: https://ncrb.gov.in/sites/default/files/ADSI_2020_FULL_REPORT.p
 Click on a category such as gender, age bracket or cause to exapand that particular section.
 
 Click on the center circle to return to the upper category.
+
+## Methodology
+Analysed in Microsoft Excel, visualised using Plotly package for Python.
