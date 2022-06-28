@@ -13,7 +13,7 @@ Each and every suicide is a tragedy. If you need help, please reach out to your 
 • Earth: [Suicide Crisis Lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
 
 ## Using the interactive sunburst visualisation
-[Click here to view the visualisation](https://savvychawla.github.io/IndiaSuicide2020/index.html)
+## [Click here to view the visualisation](https://savvychawla.github.io/IndiaSuicide2020/index.html)
 
 Click on a category such as gender, age bracket or cause to exapand that particular section.
 
